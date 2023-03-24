@@ -1,2 +1,2 @@
 # DSA
-## Creating this repos for topics generally asked in DE interviews
+## Creating this repository for topics generally asked in DE interviews
